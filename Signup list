@@ -1,0 +1,13 @@
+# Figured I'd put this here too.
+
+If you pick a model, put your name next to it; do the model for both median and per capita income.
+
+* Simple Linear Regression
+* Linear Regression w/ Stepwise variable selection
+* Linear Regression w/ Ridge penalty
+* Linear Regression w/ Lasso penalty
+* Polynomial Regression
+* Step Function
+* Spline
+* Local Regression
+* Generalized Additive Model
