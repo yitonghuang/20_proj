@@ -4,8 +4,8 @@ Select two of these to do. If you pick a model, put your name next to it; do the
 
 Be sure to try variable subset selection!
 
-* Linear Regression w/ Ridge penalty or Lasso penalty
-* Polynomial Regression
+* Linear Regression w/ Ridge penalty or Lasso penalty -- Will
+* Polynomial Regression -- Will
 * Step Function
 * Spline
 * Local Regression
